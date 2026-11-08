@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+3:"static/chunks/c15bf2b0-182b384b62e205ff.js"
+4:"static/chunks/500-fc3b64d9ff4a32a7.js"
+5:"static/chunks/289-a640d357ab57c5c5.js"
+6:"static/chunks/app/layout-ee199ba2afb393df.js"
+7:"SmoothScrollProvider"
+8:I[1893,["592","$3","500","$4","289","$5","177","$6"],"$7"]
+9:"CustomRingCursor"
+a:I[1978,["592","$3","500","$4","289","$5","177","$6"],"$9"]
+b:"GeometricRouteLoader"
+c:I[2224,["592","$3","500","$4","289","$5","177","$6"],"$b"]
+d:I[2097,["592","$3","500","$4","289","$5","177","$6"],"AdaptiveNavbar"]
+e:I[7121,[],""]
+f:I[4581,[],""]
+10:"MonumentalFooter"
+11:I[6950,["592","$3","500","$4","289","$5","177","$6"],"$10"]
+12:"FloatingActionStack"
+13:I[4429,["592","$3","500","$4","289","$5","177","$6"],"$12"]
+1a:I[484,[],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[484,[],"$1e"]
+20:"MetadataBoundary"
+21:I[484,[],"$20"]
+:HL["/Monolith/_next/static/css/2a1928ee843c3308.css","style"]
+2:T471,{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://monolithestates.com/#organization","name":"Monolith Architectural Group","url":"https://monolithestates.com/","logo":{"@type":"ImageObject","@id":"https://monolithestates.com/#logo","url":"https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=800&auto=format&fit=crop","caption":"Monolith Architectural Group Logo"},"contactPoint":[{"@type":"ContactPoint","telephone":"096 170 12345","contactType":"customer service","email":"concierge@monolithestates.com","areaServed":"BD","availableLanguage":["English","Bengali"]}]},{"@type":"LocalBusiness","@id":"https://monolithestates.com/#localbusiness","name":"Monolith Flagship Atelier","image":"https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop","telephone":"096 170 12345","email":"concierge@monolithestates.com","address":{"@type":"PostalAddress","streetAddress":"117/A Tejgaon I/A","addressLocality":"Dhaka","postalCode":"1208","addressCountry":"BD"},"geo":{"@type":"GeoCoordinates","latitude":"23.7700","longitude":"90.4000"},"priceRange":"$$$$"}]}15:X
+18:X
+18:C
+19:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],null,["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}],"p":"$@1d","v":null,"s":"$15"}}]]
+16:[["children",{"s":"_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$Lf",null,{}]}]]}],"p":"$@17","v":"$18","s":"$15"},"c":"$Q19"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/Monolith/_next/static/css/2a1928ee843c3308.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"__variable_b59e37","data-scroll-behavior":"smooth","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/icon.svg"}],["$","link",null,{"rel":"apple-touch-icon","href":"/icon.svg"}],["$","meta",null,{"name":"theme-color","content":"#F16A11"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col bg-canvas-light text-monolith font-sans selection:bg-brand-orange selection:text-white","suppressHydrationWarning":true,"children":["$","$L8",null,{"children":[["$","$La",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 w-full flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$Lf",null,{}]}]}],["$","$L11",null,{}],["$","$L13",null,{}]]}]}]]}]]}],"p":"$@14","v":null,"s":"$15"},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#F16A11"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"MONOLITH | Ultra-Luxury Architectural Developments & Private Residences"}],["$","meta","1",{"name":"description","content":"Monolith Architectural Group crafts generational living sanctuaries, waterfront penthouses, and commercial headquarters defined by tectonic honesty, fair-faced concrete, and tailored quiet luxury."}],["$","meta","2",{"name":"author","content":"Monolith Architectural Group"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"MONOLITH | Ultra-Luxury Architectural Developments & Private Residences"}],["$","meta","5",{"property":"og:description","content":"Sculpting living monuments that transcend time through raw structural honesty, floor-to-ceiling acoustic glass, and quiet luxury."}],["$","meta","6",{"property":"og:url","content":"https://monolithestates.com/"}],["$","meta","7",{"property":"og:site_name","content":"Monolith Architectural Group"}],["$","meta","8",{"property":"og:locale","content":"en_GB"}],["$","meta","9",{"property":"og:image","content":"https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2000&auto=format&fit=crop"}],["$","meta","10",{"property":"og:image:alt","content":"Monolith Architectural Group"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],"$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}],null]}],null]}],"p":"$@29","v":null,"s":"$15"}},"a":"$@2a","u":"$@2b","b":"U-p--IjA7AGhJ_GBeRU7j"}
+2c:I[6869,[],"IconMark"]
+1c:null
+22:["$","meta","13",{"name":"twitter:title","content":"MONOLITH | Ultra-Luxury Architectural Developments"}]
+23:["$","meta","14",{"name":"twitter:description","content":"Sculpting living monuments that transcend time through raw structural honesty and quiet luxury."}]
+24:["$","meta","15",{"name":"twitter:image","content":"https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2000&auto=format&fit=crop"}]
+25:["$","meta","16",{"name":"twitter:image:alt","content":"Monolith Architectural Group"}]
+26:["$","link","17",{"rel":"icon","href":"/Monolith/favicon.ico?7161ee1d105bc9c7","type":"image/x-icon","sizes":"48x48"}]
+27:["$","link","18",{"rel":"icon","href":"/Monolith/icon.svg?2fb2da8bcc825b9c","type":"image/svg+xml","sizes":"any"}]
+28:["$","$L2c","19",{}]
+15:300
+2b:true
+15:C
+2a:0
+17:"$undefined"
+14:"$undefined"
+29:"$undefined"
+1d:"$undefined"
